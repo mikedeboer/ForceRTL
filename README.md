@@ -20,5 +20,5 @@ I encourage everyone to contribute to this add-on whenever you see something you
 
 
 ### Links
-* [https://developer.mozilla.org/en/Making_Sure_Your_Theme_Works_with_RTL_Locales](Making Sure Your Theme Works with RTL Locales)
-* [http://ehsanakhgari.org/mozilla/extensions/firefox/force-rtl](Ehsan's Force RTL page)
+* [Making Sure Your Theme Works with RTL Locales](https://developer.mozilla.org/en/Making_Sure_Your_Theme_Works_with_RTL_Locales)
+* [Ehsan's Force RTL page](http://ehsanakhgari.org/mozilla/extensions/firefox/force-rtl)
