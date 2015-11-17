@@ -1,0 +1,37 @@
+{
+  "title": "Force RTL",
+  "name": "forcertl",
+  "version": "2.2.0",
+  "description": "Force a LTR locale to behave as if it was a RTL locale.",
+  "main": "index.js",
+  "author": "Mike de Boer <mdeboer@mozilla.com>",
+  "contributors": [{
+    "name": "Ehsan Akhgari",
+    "email": "ehsan.akhgari+forcertl@gmail.com"
+  }, {
+    "name": "Kai Liu",
+    "email": "kliu@mozilla.kailiu.com"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikedeboer/ForceRTL.git"
+  },
+  "engines": {
+    "firefox": ">=38.0a1",
+    "thunderbird": ">=38.0a1"
+  },
+  "license": "MPL-2.0",
+  "keywords": [
+    "jetpack"
+  ],
+  "dependencies": {
+    "menuitem": "0.0.5"
+  },
+  "preferences": [{
+    "type": "bool",
+    "name": "rtl",
+    "title": "Whether to enforce RTL mode by default",
+    "hidden": true,
+    "value": false
+  }]
+}
