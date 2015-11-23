@@ -2,9 +2,12 @@
   "title": "Force RTL",
   "name": "forcertl",
   "version": "2.2.0",
+  "id": "forcertl@mikedeboer.nl",
   "description": "Force a LTR locale to behave as if it was a RTL locale.",
   "main": "index.js",
   "author": "Mike de Boer <mdeboer@mozilla.com>",
+  "icon": "resource://forcertl-at-mikedeboer-dot-nl/data/icon-48.png",
+  "icon64": "resource://forcertl-at-mikedeboer-dot-nl/data/icon-64.png",
   "contributors": [{
     "name": "Ehsan Akhgari",
     "email": "ehsan.akhgari+forcertl@gmail.com"
