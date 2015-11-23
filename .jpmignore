@@ -1,0 +1,8 @@
+{5fa014b6-c474-4c5d-8b0e-c1e73cbefbc4}-2.2.0.xpi
+.git/
+.gitignore
+.npmignore
+.jpmignore
+.travis.yml
+test/
+*.md
