@@ -20,8 +20,8 @@
     "url": "https://github.com/mikedeboer/ForceRTL.git"
   },
   "engines": {
-    "firefox": ">=38.0a1",
-    "thunderbird": ">=38.0a1"
+    "firefox": ">38.0a1",
+    "thunderbird": ">=38.0a1 <=52.0a1"
   },
   "license": "MPL-2.0",
   "keywords": [
