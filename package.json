@@ -1,7 +1,7 @@
 {
   "title": "Force RTL",
   "name": "forcertl",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "id": "{5fa014b6-c474-4c5d-8b0e-c1e73cbefbc4}",
   "description": "Force a LTR locale to behave as if it was a RTL locale.",
   "main": "index.js",
